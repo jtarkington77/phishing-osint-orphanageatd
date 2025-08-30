@@ -1,0 +1,10 @@
+type,value,notes
+domain,orphanageatd.org,Phish landing domain
+url,https://orphanageatd.org/court/PdfEdgeViewer.exe,EXE masquerading as PDF viewer
+domain,instance-t68c6n-relay.screenconnect.com,ScreenConnect relay domain
+ip,184.154.115.26,Resolved A for orphanageatd.org (capture time)
+ip,15.204.43.235,ScreenConnect relay IP (capture time)
+file,ScreenConnect.ClientSetup.msi,Dropped/installed by renamed EXE
+process,ScreenConnect Client (service),Persistent outbound TLS to relay
+registry,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\ProxyBypass,Set to 1 during install
+registry,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Connections\DefaultConnectionSettings,Modified blob
