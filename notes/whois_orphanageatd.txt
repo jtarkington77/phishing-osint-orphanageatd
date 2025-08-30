@@ -1,0 +1,125 @@
+﻿
+Whois v1.21 - Domain information lookup
+Copyright (C) 2005-2019 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Connecting to ORG.whois-servers.net...
+
+WHOIS Server: http://whois.publicdomainregistry.com
+
+Registrar URL: http://www.publicdomainregistry.com
+
+Updated Date: 2025-05-26T18:50:13Z
+
+Creation Date: 2021-04-11T18:49:22Z
+
+Registry Expiry Date: 2026-04-11T18:49:22Z
+
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+
+Registrar IANA ID: 303
+
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+
+Registrar Abuse Contact Phone: +1.2013775952
+
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+Registry Registrant ID: REDACTED
+
+Registrant Name: REDACTED
+
+Registrant Organization: Orphanage Foundation
+
+Registrant Street: REDACTED
+
+Registrant City: REDACTED
+
+Registrant State/Province: North-West Frontier
+
+Registrant Postal Code: REDACTED
+
+Registrant Country: PK
+
+Registrant Phone: REDACTED
+
+Registrant Phone Ext: REDACTED
+
+Registrant Fax: REDACTED
+
+Registrant Fax Ext: REDACTED
+
+Registrant Email: REDACTED
+
+Registry Admin ID: REDACTED
+
+Admin Name: REDACTED
+
+Admin Organization: REDACTED
+
+Admin Street: REDACTED
+
+Admin City: REDACTED
+
+Admin State/Province: REDACTED
+
+Admin Postal Code: REDACTED
+
+Admin Country: REDACTED
+
+Admin Phone: REDACTED
+
+Admin Phone Ext: REDACTED
+
+Admin Fax: REDACTED
+
+Admin Fax Ext: REDACTED
+
+Admin Email: REDACTED
+
+Registry Tech ID: REDACTED
+
+Tech Name: REDACTED
+
+Tech Organization: REDACTED
+
+Tech Street: REDACTED
+
+Tech City: REDACTED
+
+Tech State/Province: REDACTED
+
+Tech Postal Code: REDACTED
+
+Tech Country: REDACTED
+
+Tech Phone: REDACTED
+
+Tech Phone Ext: REDACTED
+
+Tech Fax: REDACTED
+
+Tech Fax Ext: REDACTED
+
+Tech Email: REDACTED
+
+Name Server: ns1.myhostingbank.com
+
+Name Server: ns2.myhostingbank.com
+
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+
+>>> Last update of WHOIS database: 2025-08-30T14:27:35Z <<<
+
+
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+
+Terms of Use: Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.  The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+
+
+Connecting to http://whois.publicdomainregistry.com...
